@@ -6,6 +6,8 @@
 💻 Web Developer @ Codeplab  
 📍 Kashmiri | 20 y/o | Passionate about AI, web dev, and building tools that matter
 
+---
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MegaliOrexi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaliOrexi&layout=compact&theme=radical)
@@ -29,6 +31,7 @@
 ---
 
 🔗 **Links**
+
 🌐 [Portfolio](https://zains-web-portfolio.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-zain-reshi-23bb8b23a/)  
 📷 [Instagram](https://www.instagram.com/megali_orexi/)  
