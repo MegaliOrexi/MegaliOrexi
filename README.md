@@ -1,10 +1,11 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mohammad Zain Reshi
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student @ University of Wollongong in Dubai
-- 🧠 Co-founder of **Acliptic** – AI-powered automatic clip detection & social uploads for livestreamers
-- 🌐 **Head of Web Development** @ Tech Club – leading web projects & mentoring new devs
-- 📍 Kashmiri | 20 y/o | Passionate about building useful tools with AI
+- 🌐 **Head of Web Development** @ Tech Club – leading web projects & mentoring developers
+- 🧠 Co-founder of **Acliptic** – AI-powered clip detection, reframing & uploads for streamers
+- 🧘 Currently doing 16/8 intermittent fasting + on a personal fitness journey
+- 📍 Kashmiri | 20 y/o | Passionate about AI, web dev, and building tools that matter
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -15,14 +16,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MegaliOrexi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaliOrexi&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
----
-
-> “Build consistently. Ship smart. Learn fast.”
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/megali_orexi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zain-reshi-23bb8b23a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MegaliOrexi)
